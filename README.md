@@ -1,2 +1,2 @@
 # cronometro-milissegundos
-Cronometro de minutos, segundos e milissegundos desenvolvido em java
+Cronômetro de minutos, segundos e milissegundos desenvolvido em java
